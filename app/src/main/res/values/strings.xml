@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">TP4_Ex2</string>
+    <string name="paiementChoice">Choix du paiement :</string>
+    <string name="paiementCarte">Paiement par carte</string>
+    <string name="paiementPaypal">Paiement via PayPal</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="payer_par_carte">Payer par carte</string>
+    <string name="prenom">Prénom :</string>
+    <string name="family_name">Nom de famille</string>
+    <string name="cardNumber">Numéro de carte</string>
+    <string name="cvc">Cryptogramme</string>
+    <string name="expiration">Date d\'expiration de carte :</string>
+    <string name="payer">Procéder au paiement</string>
+    <string name="pwd">Mot de passe :</string>
+    <string name="mail">Email :</string>
+    <string name="paiement_avec_paypal">Paiement avec Paypal</string>
 </resources>
